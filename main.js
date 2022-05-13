@@ -1,0 +1,1 @@
+function changecolor(){ document.getElementById("he1").style.color="#FF00FF"; }
